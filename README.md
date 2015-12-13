@@ -1,3 +1,3 @@
 # TODO-with-Angular
 
-Created a TODO app using angular.T
+Created a TODO app using AngularJS
